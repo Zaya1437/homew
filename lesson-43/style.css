@@ -1,0 +1,19 @@
+.glav {
+    background: #e2e0e0;
+    height: 500px;
+    overflow: auto;
+    border-radius: 15px 0 0 15px;
+}
+
+.neglav {
+    background: #b9b086;
+    height: 200px;
+    width: 200px;
+    padding: 10px 15px;
+    margin: 10px;
+    -webkit-box-shadow: 1px 1px 24px 8px rgba(0, 0, 0, 0.36) inset;
+    -moz-box-shadow: 1px 1px 24px 8px rgba(0, 0, 0, 0.36) inset;
+    box-shadow: 1px 1px 24px 8px rgba(0, 0, 0, 0.36) inset;
+    border-radius: 15px;
+    display: inline-block;
+}
